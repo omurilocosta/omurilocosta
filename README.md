@@ -1,4 +1,4 @@
-<h2 align="left">Hello, World! Eu sou o Murilo Costa</h2>
+<h2 align="left">Hello, World!👋🏽 Eu sou o Murilo Costa</h2>
 
 ###
 
