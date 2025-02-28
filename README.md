@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omurilocosta/omurilocosta/output/snake.svg" alt="Snake animation" />
-
 ###
